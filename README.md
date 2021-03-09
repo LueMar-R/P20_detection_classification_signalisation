@@ -259,5 +259,5 @@ Notre classificateur, s'il donnait des résultats intéressants sur la base de t
 <hr>
 
 ```python
-                                                                                        Ludivine, Amaury, Erwan
+                                                                                  Ludivine, Amaury, Erwan
 ```
